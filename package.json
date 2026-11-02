@@ -1,0 +1,9 @@
+{
+  "name": "cike-trace",
+  "version": "0.1.0",
+  "description": "此刻 <trace>：让 AI 在回复正文之外，自己写下这一刻心里的地方",
+  "type": "module",
+  "main": "trace.js",
+  "scripts": { "test": "node --test" },
+  "license": "MIT"
+}
